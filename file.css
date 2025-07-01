@@ -24,7 +24,7 @@
 	--textdarker: 				125, 125, 125;
 	--textdarkest: 				90, 90, 90;
 	
-	--background:				url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
+	--background:				url(https://images.hdqwalls.com/download/illustrator-planet-ai-art-4k-84-1920x1080.jpg);
 	--backgroundposition:			center;
 	--backgroundsize:			cover;
 	--backgroundblur:			0;
@@ -1192,7 +1192,6 @@ body:has(#app-mount)::after {
 	bottom: 0;
 	left: 0;
 	background: var(--header-primary);
-	-webkit-mask: url(https://discord.com/assets/1b60cdb56c8c081495ac.svg) center no-repeat;
 }
 
 .button__6e3f1:hover {									/* welcomemessage			edit channel							*/
